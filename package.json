@@ -1,13 +1,13 @@
 {
   "name": "Voltron.io",
-  "version": "0.4.0",
+  "version": "0.1.0",
   "description": "The component-based anti-framework framework.",
   "main": "index.js",
   "bin": {
     "migrate": "./node_modules/voltron-migrator/bin/migrate"
-  }
+  },
   "dependencies": {
-    "voltron-hooks": "0.9.x"
+    "voltron-hooks": "0.9.x",
     "voltron-migrator": "0.7.x",
     "voltron-model": "0.1.x",
     "voltron-adapter": "0.1.x"
@@ -21,7 +21,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jmreidy/voltron.io"
-  }
+  },
   "author": "Justin Reidy <jmreidy@rzrsharp.net>",
   "license": "MIT"
 }
