@@ -7,10 +7,10 @@
     "migrate": "./node_modules/voltron-migrator/bin/migrate"
   },
   "dependencies": {
-    "voltron-hooks": "0.9.x",
-    "voltron-migrator": "0.7.x",
-    "voltron-model": "0.1.x",
-    "voltron-adapter": "0.1.x"
+    "voltron-hooks": "git://github.com/jmreidy/voltron-hooks#master",
+    "voltron-migrator": "git://github.com/jmreidy/voltron-migrator#master",
+    "voltron-model": "git://github.com/jmreidy/voltron-model#master",
+    "voltron-adapter": "git://github.com/jmreidy/voltron-adapter#master"
   },
   "scripts": {
   },
