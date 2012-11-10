@@ -2,6 +2,7 @@
   "name": "voltron.io",
   "version": "0.1.0",
   "description": "The component-based anti-framework framework.",
+  "browserify": "brIndex.js",
   "main": "index.js",
   "bin": {
     "migrate": "./node_modules/voltron-migrator/bin/migrate"
