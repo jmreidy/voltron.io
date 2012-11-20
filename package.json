@@ -11,8 +11,7 @@
     "voltron-hooks": "git://github.com/jmreidy/voltron-hooks#master",
     "voltron-migrator": "git://github.com/jmreidy/voltron-migrator#master",
     "voltron-model": "git://github.com/jmreidy/voltron-model#0.1.x",
-    "voltron-adapter": "git://github.com/jmreidy/voltron-adapter#0.1.x",
-    "q": "0.8.10"
+    "voltron-adapter": "git://github.com/jmreidy/voltron-adapter#0.1.x"
   },
   "scripts": {
   },
