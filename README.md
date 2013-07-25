@@ -1,4 +1,4 @@
-!["Let's go Voltron Force!"](http://rzrsharp.net/images/voltron.jpg)
+!["Let's go Voltron Force!"](https://github.com/jmreidy/voltron.io/raw/master/assets/voltron.jpg)
 
 # Voltron.io
 
